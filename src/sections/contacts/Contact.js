@@ -1,7 +1,7 @@
-import React from "react";
-import contacts from "./data";
-import "./contact.css";
-import { FaPhoneAlt } from "react-icons/fa";
+import React from 'react';
+import contacts from './data';
+import './contact.css';
+import { FaPhoneAlt } from 'react-icons/fa';
 
 const Contact = () => {
   const currentYear = new Date().getFullYear();
