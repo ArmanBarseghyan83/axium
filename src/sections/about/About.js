@@ -33,9 +33,10 @@ const About = () => {
             Hello, I am a web developer with a Bachelor Degree in Engineering. I
             have successfully completed online learning courses and obtained a
             professional certificate in Computer Science for Web Programming
-            from Harvard University. I work with HTML, CSS, Bootstrap,
-            JavaScript, React, Next.js, MySQL, Sequelize, Node.js, Express.js,
-            GraphQL, MERN, Python, Django, Flask & SQL.
+            from Harvard University, and Full Stack Web Development certificate
+            from University of California Los Angeles I work with HTML, CSS,
+            Bootstrap, JavaScript, React, Next.js, MySQL, Sequelize, Node.js,
+            Express.js, GraphQL, MERN, Python, Django, Flask & SQL.
           </p>
           <p>
             Facing challenges and trying to solve them while learning new skills
