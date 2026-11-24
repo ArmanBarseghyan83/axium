@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.718521fc.css",
-    "main.js": "/portfolio/static/js/main.f0b69143.js",
-    "static/media/image0 (2).png": "/portfolio/static/media/image0 (2).e2916f90023df00af992.png",
-    "static/media/programmer-1.png": "/portfolio/static/media/programmer-1.40e21b0fc6ddc9ec168a.png",
-    "static/media/email.jpg": "/portfolio/static/media/email.169d51f766043f70f3ff.jpg",
-    "static/media/image0 (1).png": "/portfolio/static/media/image0 (1).ecbc29b289d558d87459.png",
-    "static/media/Arman_Resume.pdf": "/portfolio/static/media/Arman_Resume.1eebf05da8eea1fde6dd.pdf",
-    "static/media/meetups.png": "/portfolio/static/media/meetups.1f457f0368933e1c4be1.png",
-    "static/media/eventageous.png": "/portfolio/static/media/eventageous.81aff46b4a5a66c50335.png",
-    "static/media/e-commerce.jpg": "/portfolio/static/media/e-commerce.3173a241f72e8fe02764.jpg",
-    "static/media/expense.jpg": "/portfolio/static/media/expense.7c9aeefb34e970430b56.jpg",
-    "static/media/home-rentals.jpg": "/portfolio/static/media/home-rentals.579f26a75c49a92925ed.jpg",
-    "static/media/e-versity.jpg": "/portfolio/static/media/e-versity.e8d4959ebb6c31d3c0bb.jpg",
-    "static/media/events.jpg": "/portfolio/static/media/events.1d6bfde3a6a403c75e5b.jpg",
-    "static/media/food-order.jpg": "/portfolio/static/media/food-order.899da9f17a1fc9ec214a.jpg",
-    "index.html": "/portfolio/index.html",
-    "main.718521fc.css.map": "/portfolio/static/css/main.718521fc.css.map",
-    "main.f0b69143.js.map": "/portfolio/static/js/main.f0b69143.js.map"
+    "main.css": "/axium/static/css/main.09d9c93d.css",
+    "main.js": "/axium/static/js/main.6e7031af.js",
+    "static/media/image0 (2).png": "/axium/static/media/image0 (2).e2916f90023df00af992.png",
+    "static/media/programmer-1.png": "/axium/static/media/programmer-1.40e21b0fc6ddc9ec168a.png",
+    "static/media/email.jpg": "/axium/static/media/email.169d51f766043f70f3ff.jpg",
+    "static/media/image0 (1).png": "/axium/static/media/image0 (1).ecbc29b289d558d87459.png",
+    "static/media/Arman_Resume.pdf": "/axium/static/media/Arman_Resume.1eebf05da8eea1fde6dd.pdf",
+    "static/media/meetups.png": "/axium/static/media/meetups.1f457f0368933e1c4be1.png",
+    "static/media/eventageous.png": "/axium/static/media/eventageous.81aff46b4a5a66c50335.png",
+    "static/media/e-commerce.jpg": "/axium/static/media/e-commerce.3173a241f72e8fe02764.jpg",
+    "static/media/expense.jpg": "/axium/static/media/expense.7c9aeefb34e970430b56.jpg",
+    "static/media/home-rentals.jpg": "/axium/static/media/home-rentals.579f26a75c49a92925ed.jpg",
+    "static/media/e-versity.jpg": "/axium/static/media/e-versity.e8d4959ebb6c31d3c0bb.jpg",
+    "static/media/events.jpg": "/axium/static/media/events.1d6bfde3a6a403c75e5b.jpg",
+    "static/media/food-order.jpg": "/axium/static/media/food-order.899da9f17a1fc9ec214a.jpg",
+    "index.html": "/axium/index.html",
+    "main.09d9c93d.css.map": "/axium/static/css/main.09d9c93d.css.map",
+    "main.6e7031af.js.map": "/axium/static/js/main.6e7031af.js.map"
   },
   "entrypoints": [
-    "static/css/main.718521fc.css",
-    "static/js/main.f0b69143.js"
+    "static/css/main.09d9c93d.css",
+    "static/js/main.6e7031af.js"
   ]
 }
