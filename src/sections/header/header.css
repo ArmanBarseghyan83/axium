@@ -1,36 +1,57 @@
 @import url("https://fonts.googleapis.com/css2?family=Cinzel&family=Diphylleia&family=Montserrat:wght@100;200;300;400;500;600;700&family=Rajdhani:wght@300&family=Ysabeau+SC&display=swap");
 
-header {
+/* header {
   margin-top: 4rem;
   height: calc(100vh - 2rem);
   display: grid;
   place-items: center;
   background: var(--color-white);
   transition: var(--transition);
-}
+} */
+header {
+  margin-top: 4rem;
+  min-height: calc(100vh - 4rem);
+  display: grid;
+  place-items: center;
 
+  background-image:
+    linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0.82) 0%,
+      rgba(0, 0, 0, 0.55) 45%,
+      rgba(0, 0, 0, 0.10) 100%
+    ),
+    url("../../assets/image0\ \(2\).png");
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  transition: var(--transition);
+}
 .header-back {
   position: absolute;
   background-color: var(--color-light);
   width: 100%;
-  height: 55%;
+  height: 70%;
   clip-path: polygon(0 0, 100% 0, 100% 65%, 0 100%);
   top: 0;
 }
 
-.header-container {
+/* .header-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   position: relative;
-}
+} */
 
 .header-profile {
-  width: 25rem;
-  height: 23rem;
-  overflow: hidden;
-  margin-bottom: 1.5rem;
-  border: 1rem solid var(--color-light)
+  width: 30rem;
+  /* height: 23rem; */
+  /* overflow: hidden; */
+  
+  /* margin-bottom: 1.5rem; */
+  /* border: 1rem solid var(--color-light) */
 }
 
 .header-content {

@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../../assets/logo-2.png";
+import Logo from "../../assets/image0 (1).png";
 import data from "./data";
 import { MdLightMode } from "react-icons/md";
 import { IoIosMoon } from "react-icons/io";
