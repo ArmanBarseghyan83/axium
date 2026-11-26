@@ -1,5 +1,6 @@
 import React from "react";
 import { useEffect } from "react";
+import { FaHardHat, FaTools, FaHome, FaBuilding } from "react-icons/fa";
 // import HeaderImage from "../../assets/image0 (1).png";
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -32,6 +33,35 @@ const Header = () => {
         </div>
 
       </div>
+      <div className="header-services">
+
+  <div className="header-service">
+    <FaHardHat className="service-icon" />
+    <span>Construction</span>
+  </div>
+
+  <div className="service-divider"></div>
+
+  <div className="header-service">
+    <FaTools className="service-icon" />
+    <span>Remodeling</span>
+  </div>
+
+  <div className="service-divider"></div>
+
+  <div className="header-service">
+    <FaHome className="service-icon" />
+    <span>Additions & ADUs</span>
+  </div>
+
+  <div className="service-divider"></div>
+
+  <div className="header-service">
+    <FaBuilding className="service-icon" />
+    <span>Commercial</span>
+  </div>
+
+</div>
     </header>
   );
 };
