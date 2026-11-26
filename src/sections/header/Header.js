@@ -18,6 +18,7 @@ const Header = () => {
       <div className="container header-container" data-aos="fade-in">
         
         <div className="header-content">
+          <h5>LICENSED GENERAL CONTRACTOR</h5>
           <h1>AXIUM</h1>
           <h2>GENERAL CONTRACTING</h2>
           <p>Residential & Commercial Construction, Remodeling, and Custom Builds in Los Angeles</p>

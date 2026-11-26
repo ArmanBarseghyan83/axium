@@ -5,7 +5,7 @@ nav {
   place-items: center;
   background-color: var(--color-primary);
   background-color: #0a0000;
-  border-bottom: #b8791b solid 0.4rem;
+  border-bottom: #b8791b solid 0.2rem;
   position: fixed;
   top: 0;
   left: 0;
