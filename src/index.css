@@ -49,8 +49,8 @@ body {
 
 /* GENERAL CONTAINER CLASS */
 .container {
-  width: var(--container-width-lg);
-  margin-inline: auto;
+  width: var(--container-width-md);
+  /* margin-inline: auto; */
   max-width: 1920px;
 }
 
@@ -186,10 +186,6 @@ img {
 @media screen and (max-width: 1024px) {
   body {
     font-size: 1rem;
-  }
-
-  .container {
-    width: var(--container-width-md);
   }
 
   section {

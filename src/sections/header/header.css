@@ -1,13 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Cinzel&family=Diphylleia&family=Montserrat:wght@100;200;300;400;500;600;700&family=Rajdhani:wght@300&family=Ysabeau+SC&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&display=swap');
 
-/* header {
-  margin-top: 4rem;
-  height: calc(100vh - 2rem);
-  display: grid;
-  place-items: center;
-  background: var(--color-white);
-  transition: var(--transition);
-} */
 header {
   margin-top: 4rem;
   min-height: calc(100vh - 4rem);
@@ -45,15 +38,6 @@ header {
   position: relative;
 } */
 
-.header-profile {
-  width: 30rem;
-  /* height: 23rem; */
-  /* overflow: hidden; */
-  
-  /* margin-bottom: 1.5rem; */
-  /* border: 1rem solid var(--color-light) */
-}
-
 .header-content {
   display: flex;
   flex-direction: column;
@@ -62,7 +46,7 @@ header {
 }
 
 .header-content p {
-  width: 25rem;
+  width: 35rem;
   color: var(--color-primary);
   font-style: italic;
 }
@@ -77,6 +61,13 @@ header {
   font-weight: 400;
 }
 
+.header-content h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 5rem;
+  letter-spacing: 0.03em;
+}
+
 .header-cta {
   display: flex;
   align-items: center;
@@ -89,20 +80,20 @@ header {
     height: 15rem;
   }
 
-  .header-content p {
+  /* .header-content p {
     width: 19rem;
-  }
+  } */
 }
 
 @media screen and (max-width: 600px) {
 
-  .header-profile {
+  /* .header-profile {
     width: 15rem;
     height: 13rem;
-  }
+  } */
 
   .header-content p {
-    width: 16rem;
+    width: 30rem;
   }
 
   .header-cta {

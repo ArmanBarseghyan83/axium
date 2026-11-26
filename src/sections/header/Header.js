@@ -1,6 +1,6 @@
 import React from "react";
 import { useEffect } from "react";
-import HeaderImage from "../../assets/image0 (1).png";
+// import HeaderImage from "../../assets/image0 (1).png";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import "./header.css";
@@ -16,13 +16,12 @@ const Header = () => {
       {/* <div className="header-back"></div> */}
       <div className="container header-container" data-aos="fade-in">
         
-        <div className="header-profile">
-          <img src={HeaderImage} alt="Header Portait" />
-        </div>
         <div className="header-content">
-          <h2>Residential & Comertial Construction</h2>
-          {/* <p>Web Developer</p> */}
+          <h1>AXIUM</h1>
+          <h2>GENERAL CONTRACTING</h2>
+          <p>Residential & Commercial Construction, Remodeling, and Custom Builds in Los Angeles</p>
         </div>
+
         <div className="header-cta">
           <a href="#contact" className="btn primary">
             Request a Quote
@@ -30,15 +29,8 @@ const Header = () => {
           <a href="#projects" className="btn light">
             View Projects
           </a>
-          {/* <a
-            href="https://github.com/ArmanBarseghyan83/portfolio.git"
-            id="github-logo"
-            rel="noopner noreferrer"
-            target="_blank"
-          >
-            <BsGithub />
-          </a> */}
         </div>
+
       </div>
     </header>
   );
