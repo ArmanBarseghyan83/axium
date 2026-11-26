@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/axium/static/css/main.09027f75.css",
-    "main.js": "/axium/static/js/main.8a5f36c0.js",
+    "main.css": "/axium/static/css/main.6ec69173.css",
+    "main.js": "/axium/static/js/main.01dc3cf7.js",
     "static/media/image0 (2).png": "/axium/static/media/image0 (2).e2916f90023df00af992.png",
     "static/media/programmer-1.png": "/axium/static/media/programmer-1.40e21b0fc6ddc9ec168a.png",
     "static/media/email.jpg": "/axium/static/media/email.169d51f766043f70f3ff.jpg",
@@ -16,11 +16,11 @@
     "static/media/events.jpg": "/axium/static/media/events.1d6bfde3a6a403c75e5b.jpg",
     "static/media/food-order.jpg": "/axium/static/media/food-order.899da9f17a1fc9ec214a.jpg",
     "index.html": "/axium/index.html",
-    "main.09027f75.css.map": "/axium/static/css/main.09027f75.css.map",
-    "main.8a5f36c0.js.map": "/axium/static/js/main.8a5f36c0.js.map"
+    "main.6ec69173.css.map": "/axium/static/css/main.6ec69173.css.map",
+    "main.01dc3cf7.js.map": "/axium/static/js/main.01dc3cf7.js.map"
   },
   "entrypoints": [
-    "static/css/main.09027f75.css",
-    "static/js/main.8a5f36c0.js"
+    "static/css/main.6ec69173.css",
+    "static/js/main.01dc3cf7.js"
   ]
 }
